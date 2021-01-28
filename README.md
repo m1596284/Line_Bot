@@ -2,7 +2,7 @@
 Line_Bot_IU, an auto-reply bot in Line app, include functions as below:  
 User(text) -> Line server(text) -> Line Webhook(text) -> Your server(text) -> Internal process(output) -> Line server(output) -> User(output)
 1. Reply randomly picture with key word capturing.
-2. Crawing and displaying IG, FB, Ptt, Youtube and DouYin(Tik tok).
+2. Crawling and displaying IG, FB, Ptt, Youtube and DouYin(Tik tok).
 3. Weather forecast with loctation.
 4. Multiple language translator with pronunciation or spelling.  
 
